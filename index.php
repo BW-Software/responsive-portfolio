@@ -30,7 +30,28 @@
     <title>Agostina Fernández - Portfolio</title>
 </head>
 <body>
-    <h1>Hello World!</h1>
+<!--- ================= Header ================= --->
+    <header class="header">
+
+    </header>
+<!--- ================= Main ================= ---> 
+    <main class="main">
+    <!----------------- Home ----------------->
+        <section class="home section" id="home"></section>
+    <!----------------- About Me ----------------->
+        <section class="about section" id="about"></section>
+    <!----------------- Skills ----------------->
+        <section class="skills section" id="skills"></section>
+    <!----------------- Experience ----------------->
+        <section class="experience section" id="experience"></section>
+    <!----------------- Portfolio ----------------->
+        <section class="portfolio section" id="portfolio"></section>
+    <!----------------- Contact Us ----------------->
+        <section class="contact section" id="contact"></section>
+    </main>
+    
+<!--- ================= Footer ================= ---> 
+    <footer class="footer"></footer>
     
     <!-- Core -->
     <script src="js/core/jquery.min.js"></script>
