@@ -85,6 +85,10 @@
     
 }
 
+*:hover {
+  transition: all .3s;
+}
+
 /* =========== VARIABLE COLOR DARK THEME ============ */
 body.dark-theme{
     /* HSL Color Mode */
@@ -258,7 +262,7 @@ img{
 }
 
 .nav__logo,
-.nav__toggle{
+.nav__toggle {
     color: var(--title-color);
     font-weight: var(--font-medium);
 }
@@ -275,6 +279,21 @@ img{
 
 .nav__toggle:hover{
     color: var(--first-color);
+}
+
+.flags {
+  width: 75px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.flags__item {
+  width: 30px;
+}
+
+.flags__img {
+  cursor: pointer;
+  display: block;
 }
 
 .navbar-brand{

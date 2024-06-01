@@ -1,0 +1,93 @@
+{
+    "header": {
+        "about": "Sobre Mí",
+        "skills": "Habilidades",
+        "qualification": "Calificación",
+        "contact": "Contáctame"
+    },
+
+    "home": {
+        "welcome": "¡Bienvenido a mi portfolio web!",
+        "title": "¡Hola! Soy",
+        "subtitle": "Data Scientist Entusiasta de la tecnología y Desarrollo Web. Apasionada por aprender nuevas tecnologías.",
+        "contact": "Contáctame"
+    },
+
+    "about": {
+        "title": "Sobre Mí",
+        "subtitle": "Introducción",
+        "description": "Data Scientist y Web developer, con extenso conocimiento. Trabajo con tecnologías web y de diseño. Entregando trabajos de calidad.",
+        
+        "info1": "Años <br> de Proyectos",
+        "info2": "Proyectos <br> Completados",
+        "info3": "Trabajo en <br> Compañías",
+
+        "btn": "Descargar CV"
+    },
+
+    "skills": {
+        "title": "Habilidades",
+        "subtitle": "Mis Habilidades"
+    },
+
+    "qualification": {
+        "title": "Calificación",
+        "subtitle": "Mi Diario Personal",
+        "education": "Educación",
+
+        "education-5-title": "Licenciatura en Ciencias de la Computación",
+        "education-5-subtitle": "Universidad Nacional de San Juan",
+        "education-5-details": "En curso",
+
+        "education-4-title": "Cursos",
+        "education-4-subtitle": "Autodidacta",
+        "education-4-details": "Studié multiples cursos desde Base de Datos hasta Desarrollo Web Full Stack desde el 2020 hasta la fecha.",
+
+        "education-3-title": "Data Scientist",
+        "education-3-subtitle": "Henry",
+        "education-3-details": "Estudié Análisis de Datos, Machien Learning y programación. Desarrollé habilidades prácticas en proyectos basados en el mundo real y gané  and gained competencia en herramientas como Python, SQL, y Pandas.",
+
+        "education-2-title": "Bachillerato en Ciencias Exactas, Físicas y Naturales",
+        "education-2-subtitle": "Escuela Normal Juan Pascual Príngles",
+        "education-2-details": "Estudié Física, Química Orgánica e Inorgánica, Cálculo, Álgebra, Computación, Epistemología e Inglés en una escuela pre universitaria prestigiosa.",
+
+        "education-1-title": "Secundaria",
+        "education-1-subtitle": "Escuela Normal Juan Pascual Príngles",
+        "education-1-details": "Estudié Física, Química, Matemáticas, Filosofía e Inglés.",
+
+        "experience": "Experiencia",
+
+        "experience-1-title": "Desarrolladora Web",
+        "experience-1-subtitle": "Freelancer",
+        "experience-1-details": "He desarrollado mis propios proyectos Freelancer de forma completamente independiente, desde proyectos de uso completamente personal a modo de práctica hasta proyectos para uso de allegados."
+    },
+
+    "portfolio": {
+        "title": "Portfolio",
+        "subtitle": "Mis trabajos recientes",
+
+        "projects-1-date": "Month full-year",
+        "projects-1-title": "Project Name",
+        "projects-1-description": "Description. Oh! This is a great project!",
+        "projects-1-url": "Just in case we need it soon! Don't forget girl... decrescent is the key!"
+    },
+
+    "contact": {
+        "title": "Contáctame",
+        "subtitle": "Mantente en contacto",
+        "call": "Llámame",
+        "address": "Dirección"
+    },
+
+    "contact-me": {
+        "title": "¿Estás interesado en trabajar juntos?<span> Hablemos </span>",
+        "send": "Enviar Mensaje"
+    },
+
+    "footer": {
+        "about": "Sobre Mí",
+        "portfolio": "Mi Portfolio",
+        "contact": "Contáctame",
+        "footer": "&#169; FRAGA. Todos los derechos reservados&copy;"
+    }
+}

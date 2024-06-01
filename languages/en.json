@@ -1,0 +1,94 @@
+{
+    "header": {
+        "about": "About",
+        "skills": "Skills",
+        "qualification": "Qualification",
+        "contact": "Contact Us"
+    },
+
+    "home": {
+        "welcome": "Welcome to my Portfolio Website!",
+        "title": "Hey! I'm",
+        "subtitle": "A Data Scientist enthusiast about technology and web Development. Passionate on learning new technologies.",
+        "contact": "Contact Me"
+    },
+
+    "about": {
+        "title": "About",
+        "subtitle": "My Introduction",
+        "description": "Data Scientist and Web developer, with extensive knowledge, working with web technologies and designing. Delivering quality works.",
+        
+        "info1": "Years <br> Projects",
+        "info2": "Completed <br> Projects",
+        "info3": "Complanies <br> Worked",
+
+        "btn": "Download CV"
+    },
+
+    "skills": {
+        "title": "Skillset",
+        "subtitle": "My Skillsets"
+    },
+
+    "qualification": {
+        "title": "Qualification",
+        "subtitle": "My Personal Journey",
+
+        "education": "Education",
+
+        "education-5-title": "Degree of Computer Science",
+        "education-5-subtitle": "National University of San Juan",
+        "education-5-details": "Still Studying",
+                
+        "education-4-title": "Courses",
+        "education-4-subtitle": "Autodidact",
+        "education-4-details": "Studied multiple courses ranging from database to full web development from 2020 until now.",
+
+        "education-3-title": "Data Scientist",
+        "education-3-subtitle": "Henry",
+        "education-3-details": "Studied data analysis, machine learning, and programming. Developed practical skills through real-world projects and gained proficiency in tools like Python, SQL, and Pandas.",
+
+        "education-2-title": "Bachelor in Exact, Physical and Natural Sciences",
+        "education-2-subtitle": "Juan Pascual Pringles Normal School",
+        "education-2-details": "Studied Physics, Organic and Inorganic Chemistry, Calculation, Algebra, Computer Science, Epistemology and English in a prestigious Pre University School.",
+
+        "education-1-title": "High School",
+        "education-1-subtitle": "Juan Pascual Pringles Normal School",
+        "education-1-details": "Studied Physics, Chemistry, Mathematics, Philosophy and English.",
+
+        "experience": "Experience",
+
+        "experience-1-title": "Web Developer",
+        "experience-1-subtitle": "Freelancer",
+        "experience-1-details": "I have developed my own Freelancer projects completely independently, from projects for completely personal use as practice to projects for use by close friends."
+    },
+
+    "portfolio": {
+        "title": "Portfolio",
+        "subtitle": "My most recent works",
+        
+        "projects-1-date": "Month full-year",
+        "projects-1-title": "Project Name",
+        "projects-1-description": "Description. Oh! This is a great project!",
+        "projects-1-url": "Just in case we need it soon! Don't forget girl... decrescent is the key!"
+    },
+
+    "contact": {
+        "title": "Contact Me",
+        "subtitle": "Get in touch",
+        "call": "Call Me",
+        "address": "Direction"
+    },
+
+    "contact-me": {
+        "title": "Interested to work together? - <span> Let's talk </span>",
+        "send": "Send Message"
+    },
+
+    "footer": {
+        "about": "About Me",
+        "portfolio": "My Portfolio",
+        "contact": "Contact Me",
+        "footer": "&#169; FRAGA. All rights reserved&copy;"
+    }
+}
